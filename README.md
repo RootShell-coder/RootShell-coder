@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+All that is really worth the doing is what we do for others.
+
 <!--
 **RootShell-coder/RootShell-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
